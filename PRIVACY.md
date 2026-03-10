@@ -1,4 +1,5 @@
 Privacy Policy for LaserSpeak
+
 Last Updated: March 10, 2026
 
 LaserSpeak was built with a "Privacy-by-Design" philosophy. We believe your voice belongs to you, not the cloud. This policy explains how we handle your information (or, more accurately, how we don't).
