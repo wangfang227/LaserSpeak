@@ -25,7 +25,7 @@ Email: datakingds@gmail.com
 🛠 Features
 - 100 Levels: A progressive curriculum covering American English mastery, IELTS/TOEFL prep, and Business English.
 - Real-time Feedback: Powered by Apple Silicon for zero-latency correction.
-- Contrast Loop: Automatically replays your attempt alongside the target native pattern when you need extra help.
+- Contrast Loop: Automatically replays your attempt alongside the target native pattern.
 - Native Build: Only 1.1MB — less than 0.5% the size of typical language apps.
 
 Privacy Link: https://github.com/wangfang227/LaserSpeak/blob/main/PRIVACY.md
