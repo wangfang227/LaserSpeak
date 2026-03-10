@@ -7,23 +7,17 @@ LaserSpeak was built with a "Privacy-by-Design" philosophy. We believe your voic
 LaserSpeak does not collect, store, or transmit any personal information. There are no user accounts, no sign-up forms, no tracking cookies, and no third-party analytics frameworks (such as Firebase or Facebook SDK) bundled within the app.
 
 2. Audio Processing (100% On-Device)
-All speech recognition and accent analysis are performed locally on your iPhone.
-
-We use Apple’s SFSpeechRecognizer framework with the requiresOnDeviceRecognition flag enabled.
-
-No audio is recorded, stored, or uploaded to any external servers.
-
-Your voice is processed in real-time to provide feedback and is immediately discarded.
+- All speech recognition and accent analysis are performed locally on your iPhone.
+- We use Apple’s SFSpeechRecognizer framework with the requiresOnDeviceRecognition flag enabled.
+- No audio is recorded, stored, or uploaded to any external servers.
+- Your voice is processed in real-time to provide feedback and is immediately discarded.
 
 3. Local Data Storage
-The app uses UserDefaults (local storage) only to track your personal progress, including:
-
-Your current Level and Chapter.
-
-Your daily practice streak.
-
-The "Review List" of words you wish to practice again.
-This data stays exclusively on your device and is not synced to any cloud service.
+- The app uses UserDefaults (local storage) only to track your personal progress, including:
+- Your current Level and Chapter.
+- Your daily practice streak.
+- The "Review List" of words you wish to practice again.
+- This data stays exclusively on your device and is not synced to any cloud service.
 
 4. Third-Party Sharing
 Since we do not collect any data, we have no data to sell, trade, or share with third parties. We do not display ads and do not use any third-party marketing tools.
