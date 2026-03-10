@@ -18,12 +18,12 @@ Email: datakingds@gmail.com
 - Response Time: We typically respond within 24–48 hours.
 
 🚀 Troubleshooting
-- App stays on "Listening": Please ensure you have granted Microphone and Speech Recognition permissions in Settings > LaserSpeak.
-- Accuracy: For the best score from our "Strict Judge" AI, please use the app in a quiet room. Background noise or music may interfere with the on-device analysis.
+- Permissions: Please ensure you have granted Microphone and Speech Recognition permissions in Settings > LaserSpeak.
+- Accuracy: For the best score from our "Strict Judge" AI, please use the app in a quiet room.
 - Hardware Requirements: Optimized for iPhone. Requires iOS 17.0 or later to utilize the Apple Neural Engine for real-time feedback.
 
 🛠 Features
 - 100 Levels: A progressive curriculum covering American English mastery, IELTS/TOEFL prep, and Business English.
 - Real-time Feedback: Powered by Apple Silicon for zero-latency correction.
 - Contrast Loop: Automatically replays your attempt alongside the target native pattern when you need extra help.
-- Native Build: Only 1.1MB—less than 0.5% the size of typical language apps.
+- Native Build: Only 1.1MB — less than 0.5% the size of typical language apps.
